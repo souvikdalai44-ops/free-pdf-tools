@@ -1,4 +1,4 @@
-# Free PDF Tools (Browser-based)
+# [Free PDF Tools Preview](preview.png)
 
 A collection of free online PDF tools that work directly in the browser.
 No software installation, no signup, and no file upload required.
