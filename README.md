@@ -16,7 +16,7 @@ No software installation, no signup, and no file upload required.
 
 All tools are designed to be fast, simple, and privacy-friendly.
 
-## Live Demo
+## Live demo of browser-based PDF tools
 
 You can try the tools here:
 https://free-pdf-tools-e7x.pages.dev
